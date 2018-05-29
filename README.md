@@ -1,6 +1,14 @@
 # Estadisticas-101
 
-El presente es un curso de estadísticas aplicadas, orientadas hacia el estudio de la ciencia de datos.
+El presente es un curso de estadísticas aplicadas orientadas hacia el estudio de la ciencia de datos.
+
+## Autores:
+* Andrés Leiva Araos
+* Roberto Moraga Días
+
+## Fecha:
+Mayo 2018
+
 
 # Inicialización del repo en GitHub
 
